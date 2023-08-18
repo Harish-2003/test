@@ -1,0 +1,5 @@
+{{#user}
+Name: Harish Peddina
+Skills: HTML, CSS, JS,Django
+Email: peddinaharish2003@gmail.com
+{{/user}}
